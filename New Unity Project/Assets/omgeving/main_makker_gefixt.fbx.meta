@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: f45edbec7be5c498987478e87511dc08
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: -1498010087492872569
+    second: idle
+  - first:
+      74: -2993534804863918692
+    second: jump
+  - first:
+      74: -3431577370128572723
+    second: val
+  - first:
+      74: 6532499249364619991
+    second: impact grond
+  - first:
+      74: -7484683607990558602
+    second: gravity switch
+  - first:
+      74: -4574788858635871481
+    second: lopen
+  - first:
+      74: 6842657472041917669
+    second: lopen(gun)
+  - first:
+      74: -3478839071201246584
+    second: bukken
+  - first:
+      74: 127964607789600815
+    second: bukken(lopen)
+  - first:
+      74: 4028165316209873467
+    second: rennen
+  - first:
+      74: 1538282839624624535
+    second: FUCKING DIE
+  - first:
+      74: -8155340173359195150
+    second: idle (gun)
+  - first:
+      74: 5604479842846028965
+    second: aiming
+  - first:
+      74: -3650555034862347190
+    second: DO A FLIP
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: CINEMA_4D_Main
+      internalID: -1498010087492872569
+      firstFrame: 0
+      lastFrame: 198
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: CINEMA_4D_Main
+      internalID: -2993534804863918692
+      firstFrame: 199
+      lastFrame: 219
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: val
+      takeName: CINEMA_4D_Main
+      internalID: -3431577370128572723
+      firstFrame: 220
+      lastFrame: 247
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: impact grond
+      takeName: CINEMA_4D_Main
+      internalID: 6532499249364619991
+      firstFrame: 249
+      lastFrame: 264
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gravity switch
+      takeName: CINEMA_4D_Main
+      internalID: -7484683607990558602
+      firstFrame: 265
+      lastFrame: 279
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: lopen
+      takeName: CINEMA_4D_Main
+      internalID: -4574788858635871481
+      firstFrame: 280
+      lastFrame: 306
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: lopen(gun)
+      takeName: CINEMA_4D_Main
+      internalID: 6842657472041917669
+      firstFrame: 307
+      lastFrame: 333
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bukken
+      takeName: CINEMA_4D_Main
+      internalID: -3478839071201246584
+      firstFrame: 334
+      lastFrame: 344
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bukken(lopen)
+      takeName: CINEMA_4D_Main
+      internalID: 127964607789600815
+      firstFrame: 345
+      lastFrame: 375
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rennen
+      takeName: CINEMA_4D_Main
+      internalID: 4028165316209873467
+      firstFrame: 376
+      lastFrame: 395
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FUCKING DIE
+      takeName: CINEMA_4D_Main
+      internalID: 1538282839624624535
+      firstFrame: 396
+      lastFrame: 438
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle (gun)
+      takeName: CINEMA_4D_Main
+      internalID: -8155340173359195150
+      firstFrame: 439
+      lastFrame: 552
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aiming
+      takeName: CINEMA_4D_Main
+      internalID: 5604479842846028965
+      firstFrame: 553
+      lastFrame: 573
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DO A FLIP
+      takeName: CINEMA_4D_Main
+      internalID: -3650555034862347190
+      firstFrame: 632
+      lastFrame: 694
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: joints
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_bovenbeen
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_bovenbeen
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_knie
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_knie
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_voet_pols
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_voet_pols
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: borst
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nek
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoofd
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_coller
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_schouder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_schouder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_elleboog
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_elleboog
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_pols
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_pols
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_tenen
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_tenen
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_duim
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_duim_mid
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_hand_mid
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_duim
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_duim_mid
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_hand_mid
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_coller
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: main_makker_gefixt(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: animaties
+      parentName: main_makker_gefixt(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: geweertie
+      parentName: main_makker_gefixt(Clone)
+      position: {x: -0.18366261, y: 0.75112057, z: 0.3489647}
+      rotation: {x: -0.2204532, y: 0.73128533, z: 0.46042597, w: 0.45236057}
+      scale: {x: 1, y: 1, z: 1}
+    - name: geweer
+      parentName: geweertie
+      position: {x: 0.0065572113, y: -0.031614747, z: -0.031135496}
+      rotation: {x: -0.2204532, y: 0.73128533, z: 0.46042597, w: -0.45236057}
+      scale: {x: 1, y: 1, z: 1}
+    - name: model
+      parentName: main_makker_gefixt(Clone)
+      position: {x: -0.015781289, y: 1.0367916, z: -0.015534459}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: acererionies
+      parentName: model
+      position: {x: 0.04734387, y: 0.21206129, z: 0.0052903323}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: helm
+      parentName: acererionies
+      position: {x: -0.026899647, y: 0.49326187, z: -0.015208887}
+      rotation: {x: 0.00013327222, y: 0.009608961, z: -0.042459752, w: 0.999052}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jetpack
+      parentName: acererionies
+      position: {x: 0.14405504, y: -0.17448632, z: -0.017195428}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lichaam
+      parentName: model
+      position: {x: -0.031562578, y: -0.07627771, z: -2.14347}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Linker_been
+      parentName: model
+      position: {x: -0.015781289, y: -0.0706871, z: -0.001763444}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RECHTER_been
+      parentName: model
+      position: {x: -0.015781289, y: -0.0706871, z: -0.001763444}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root
+      parentName: main_makker_gefixt(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: root
+      position: {x: -0.0024915177, y: 1.4207186, z: 0.0038326448}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: borst_control
+      parentName: body
+      position: {x: 0.007458904, y: -0.14478143, z: -0.024964377}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bones
+      parentName: root
+      position: {x: -0.10450068, y: 1.4018981, z: -0.796193}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heup_control
+      parentName: bones
+      position: {x: 0.109468065, y: -0.52319235, z: 0.7997833}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joints
+      parentName: heup_control
+      position: {x: 0, y: 0.036068857, z: 0.00006401539}
+      rotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heupen
+      parentName: joints
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.70739657, y: 0, z: -0, w: 0.70681685}
+      scale: {x: 1, y: 1, z: 1}
+    - name: borst
+      parentName: heupen
+      position: {x: -0, y: -0.025111781, z: -0.39721075}
+      rotation: {x: -0.00040994116, y: 0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_coller
+      parentName: borst
+      position: {x: -0, y: 0.00035644427, z: 4.2632563e-16}
+      rotation: {x: -0.56042194, y: 0.000000005268356, z: 0.000000005268356, w: 0.8282073}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_schouder
+      parentName: L_coller
+      position: {x: -0, y: -0.014235814, z: -0.27353808}
+      rotation: {x: -0.1885931, y: 0.0032285627, z: 0.12002474, w: 0.9746878}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_elleboog
+      parentName: L_schouder
+      position: {x: -0.010963922, y: 7.4606985e-16, z: -0.2806215}
+      rotation: {x: 0.0034918627, y: -0.12799002, z: -0.0006022098, w: 0.9917692}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_pols
+      parentName: L_elleboog
+      position: {x: -0.09850414, y: -0.00000000207582, z: -0.2695881}
+      rotation: {x: 5.030698e-16, y: -1.3877783e-17, z: 0.000000010536712, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_duim
+      parentName: L_pols
+      position: {x: 2.223056e-10, y: 0.0105491, z: 0.00098856}
+      rotation: {x: -0.018129678, y: 0.16725469, z: -0.0030759783, w: 0.9857422}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_duim_mid
+      parentName: L_duim
+      position: {x: -1.4210854e-16, y: 0, z: -0.09968379}
+      rotation: {x: 0.0000010859216, y: -0.03171608, z: -0.00000025401812, w: 0.999497}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_duim_eind
+      parentName: L_duim_mid
+      position: {x: 1.4210854e-16, y: 0, z: -0.051543955}
+      rotation: {x: -2.0816682e-17, y: -4.451734e-16, z: 3.469447e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hand
+      parentName: L_pols
+      position: {x: -0, y: 3.5527136e-17, z: 1.4210854e-16}
+      rotation: {x: -0.018302107, y: 0.096854806, z: -0.0017813349, w: 0.9951287}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hand_mid
+      parentName: L_hand
+      position: {x: 7.105427e-17, y: 1.0658141e-16, z: -0.09974079}
+      rotation: {x: 9.752548e-13, y: 0.07023236, z: -6.8611824e-14, w: 0.9975307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hand_eind
+      parentName: L_hand_mid
+      position: {x: 7.105427e-17, y: -2.1316282e-16, z: -0.07311827}
+      rotation: {x: -2.0816682e-17, y: -4.7368793e-16, z: -2.0816682e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nek
+      parentName: borst
+      position: {x: -0, y: 1.9984014e-16, z: -0.19073623}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoofd
+      parentName: nek
+      position: {x: -0, y: 8.881784e-18, z: -0.039369054}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoofd_top
+      parentName: hoofd
+      position: {x: -0, y: 9.325873e-17, z: -0.44488874}
+      rotation: {x: -0, y: -7.9345884e-17, z: -1.6313885e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_coller
+      parentName: borst
+      position: {x: -0, y: 0.00035644427, z: 2.842171e-16}
+      rotation: {x: 0.5608694, y: -0.000000021073422, z: -0.000000021073422, w: 0.8279043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_schouder
+      parentName: R_coller
+      position: {x: -0, y: 0.013920304, z: -0.2728988}
+      rotation: {x: 0.18513592, y: 0.028312009, z: -0.24848582, w: 0.9503567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_elleboog
+      parentName: R_schouder
+      position: {x: -0.010963922, y: -1.4210854e-16, z: -0.2806215}
+      rotation: {x: -0.0069336724, y: -0.13119249, z: 0.0029077467, w: 0.9913284}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_pols
+      parentName: R_elleboog
+      position: {x: -0.09850414, y: 0.0000000020758186, z: -0.2695881}
+      rotation: {x: -2.6090241e-15, y: 3.4694443e-17, z: 0.000000010536712, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_duim
+      parentName: R_pols
+      position: {x: -2.223058e-10, y: -0.0105491, z: 0.00098856}
+      rotation: {x: 0.16725495, y: -0.01812911, z: 0.98574215, w: -0.003076118}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_duim_mid
+      parentName: R_duim
+      position: {x: -3.5527135e-16, y: 4.2632563e-16, z: -0.09968379}
+      rotation: {x: 0.00000017299318, y: 0.03171451, z: 0.00000006728806, w: 0.999497}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_duim_eind
+      parentName: R_duim_mid
+      position: {x: -7.105427e-17, y: -3.5527135e-16, z: -0.051543955}
+      rotation: {x: -6.396793e-17, y: 5.8056316e-16, z: 3.7137422e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hand
+      parentName: R_pols
+      position: {x: -1.7763568e-17, y: 7.105427e-17, z: 1.4210854e-16}
+      rotation: {x: 0.096854806, y: -0.01830211, z: 0.9951287, w: -0.0017813139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hand_mid
+      parentName: R_hand
+      position: {x: -3.5527136e-17, y: 3.5527135e-16, z: -0.09974079}
+      rotation: {x: -1.0015067e-12, y: -0.07023236, z: -7.048447e-14, w: 0.9975307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hand_eind
+      parentName: R_hand_mid
+      position: {x: -7.105427e-17, y: -8.5265126e-16, z: -0.07311827}
+      rotation: {x: 5.421011e-17, y: 1.967827e-16, z: -2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_heup
+      parentName: joints
+      position: {x: -0, y: 0, z: -2.842171e-16}
+      rotation: {x: -0.30677894, y: 0, z: -0, w: 0.9517808}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_bovenbeen
+      parentName: L_heup
+      position: {x: -0, y: 2.2737367e-15, z: -0.14023946}
+      rotation: {x: -0.41374987, y: -0.18838863, z: -0.4189763, w: 0.7859896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_knie
+      parentName: L_bovenbeen
+      position: {x: -3.5527136e-17, y: -1.2434498e-16, z: -0.3221384}
+      rotation: {x: 0.000000006941542, y: -0.0000000049848783, z: 0.0000011285847,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_voet_pols
+      parentName: L_knie
+      position: {x: -3.5527136e-17, y: -5.071499e-15, z: -0.32807854}
+      rotation: {x: 0.009732729, y: -0.023435047, z: 0.45878246, w: 0.8881863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_voet
+      parentName: L_voet_pols
+      position: {x: -0.11206989, y: 0.0000000012840388, z: -0.15625426}
+      rotation: {x: 2.957134e-26, y: 4.440892e-16, z: -6.4623485e-27, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_tenen
+      parentName: L_voet
+      position: {x: -0.117037825, y: -9.663736e-13, z: -0.0030623272}
+      rotation: {x: 0.000000005285461, y: 0.7071068, z: -0.000000005285461, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_heup
+      parentName: joints
+      position: {x: -0, y: 0, z: -2.842171e-16}
+      rotation: {x: 0.9517808, y: -0, z: 0, w: -0.30677894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_bovenbeen
+      parentName: R_heup
+      position: {x: -1.3877788e-17, y: 0.00007478577, z: -0.14013551}
+      rotation: {x: 0.42023128, y: -0.1859301, z: 0.41302553, w: 0.78628594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_knie
+      parentName: R_bovenbeen
+      position: {x: -7.531753e-15, y: 4.7704062e-14, z: -0.3221384}
+      rotation: {x: -0.0000000069413253, y: -0.0000000049846696, z: 0.0000033858769,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_voet_pols
+      parentName: R_knie
+      position: {x: -4.3325342e-14, y: 2.613465e-14, z: -0.32807854}
+      rotation: {x: -0.0153657105, y: -0.022908852, z: -0.45236936, w: 0.89140403}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_voet
+      parentName: R_voet_pols
+      position: {x: -0.11206989, y: -0.0000000012842477, z: -0.15625426}
+      rotation: {x: 2.8870337e-27, y: 1.0408341e-16, z: -3.2311743e-27, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_tenen
+      parentName: R_voet
+      position: {x: -0.117037825, y: 7.483258e-13, z: -0.0030623272}
+      rotation: {x: 0.000000012735383, y: 0.7071068, z: -0.000000012735383, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_bovenbeen_Pole
+      parentName: root
+      position: {x: -0.5271509, y: 0.8566925, z: -0.11297093}
+      rotation: {x: -0.70710653, y: -0.0006349933, z: 0.00063818553, w: 0.70710653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_voet_pols_Goal
+      parentName: root
+      position: {x: -0.028417155, y: 0.13736185, z: -0.11297093}
+      rotation: {x: -0.6766879, y: 0.20516706, z: -0.20516446, w: 0.6766886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: linker_arm
+      parentName: root
+      position: {x: 0.05637278, y: 0.8451643, z: -0.21269527}
+      rotation: {x: 0, y: 0.3330647, z: -0, w: 0.942904}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_pols_Goal
+      parentName: linker_arm
+      position: {x: -0.05798871, y: 0.0049565057, z: -0.13253477}
+      rotation: {x: -0.00000008492767, y: 0.75161463, z: -0.6596025, w: -0.00000007453089}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_schouder_Pole
+      parentName: linker_arm
+      position: {x: 0.4198572, y: -0.06340098, z: 0.23628849}
+      rotation: {x: 0.018388592, y: -8.33005e-17, z: -1.0704877e-18, w: 0.99983096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_bovenbeen_Pole
+      parentName: root
+      position: {x: -0.5271509, y: 0.8566925, z: 0.11297093}
+      rotation: {x: -0.70710653, y: -0.0006349933, z: 0.00063818553, w: 0.70710653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_voet_pols_Goal
+      parentName: root
+      position: {x: -0.031142611, y: 0.13819848, z: 0.11297093}
+      rotation: {x: -0.6766879, y: 0.20516704, z: -0.20516448, w: 0.6766887}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rechter_arm
+      parentName: root
+      position: {x: 0.058030937, y: 0.8397177, z: 0.23303087}
+      rotation: {x: 0, y: -0.33475098, z: -0, w: 0.94230664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_pols_Goal
+      parentName: rechter_arm
+      position: {x: -0.03435837, y: 0.017913915, z: 0.104720466}
+      rotation: {x: -0.6657, y: 0.6771437, z: -0.3077227, w: -0.060222134}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_schouder_Pole
+      parentName: rechter_arm
+      position: {x: 0.35593814, y: 0.15425414, z: -0.110737495}
+      rotation: {x: 0.99983096, y: -2.908759e-18, z: 1.1098759e-16, w: 0.018388592}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
