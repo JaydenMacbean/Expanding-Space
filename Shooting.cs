@@ -16,10 +16,9 @@ public class Shooting : MonoBehaviour
     {
       if (Input.GetKey(KeyCode.P))
       {
-        var clone = Instantiate(Sphere, transform.position, transform.position, transform.position);
-        clone.velocity = transform.TransformDirection(0, 0, speed);
-
-        Destroy(clone, Sphere, 0);
+         GameObject clone = Instantiate(Sphere, transform.position, Quaternion.identity) as GameObject;
+         Rigidbody instBulletRigidBody = clone.GetComponent<Rigidbody>();
+         instBulletRigidBody.AddForce(Vector3.forward * speed);
       }
       
     }
