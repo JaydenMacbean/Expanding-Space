@@ -14,7 +14,7 @@ public class Shooting : MonoBehaviour
      
     void Update()
     {
-      if (Input.GetKey(KeyCode.P))
+      if (Input.GetKeyDown(KeyCode.P))
       {
          GameObject clone = Instantiate(Sphere, transform.position, Quaternion.identity) as GameObject;
          Rigidbody instBulletRigidBody = clone.GetComponent<Rigidbody>();
